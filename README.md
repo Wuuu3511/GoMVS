@@ -181,7 +181,7 @@ Please cite our paper if you use the code in this repository:
 ```
 @inproceedings{wu2024gomvs,
         title={GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo},
-        author={Wu, Jiang and Li, Rui and Xu, Haofei and Zhao, Wenxun and Zhu, Yu and Sun, Jinqiu and Zhang Yanning},
+        author={Wu, Jiang and Li, Rui and Xu, Haofei and Zhao, Wenxun and Zhu, Yu and Sun, Jinqiu and Zhang, Yanning},
         booktitle={CVPR},
         year={2024}
       }
