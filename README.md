@@ -2,7 +2,7 @@
 <div align="center">
 <h1>🦿GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo</h1>
 
-[**Jiang Wu**]()<sup>1</sup> [**Rui Li**](https://ruili3.github.io/)<sup>1,2</sup> · [**Haofei Xu**](https://haofeixu.github.io)<sup>2,3</sup> · [**Wenxun Zhao**](https://github.com/adaxun/)<sup>1</sup> · [**Yu Zhu**]()<sup>1</sup> <br>
+[**Jiang Wu**]()<sup>1</sup> · [**Rui Li**](https://ruili3.github.io/)<sup>1,2</sup> · [**Haofei Xu**](https://haofeixu.github.io)<sup>2,3</sup> · [**Wenxun Zhao**](https://github.com/adaxun/)<sup>1</sup> · [**Yu Zhu**]()<sup>1</sup> <br>
 [**Jinqiu Sun**]()<sup>1</sup> · [**Yanning Zhang**]()<sup>1</sup>
 
 <sup>1</sup>Northwestern Polytechnical University  · <sup>2</sup>ETH Zürich  · <sup>3</sup>University of Tübingen, Tübingen AI Center
