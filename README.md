@@ -10,8 +10,8 @@
 **CVPR 2024**
 
 💨
-<a href='https://wuuu3511.github.io/gomvs'><img src='https://img.shields.io/badge/Project_Page-GoMVS-red' alt='Project Page'></a>
-<a href='https://arxiv.org/abs/2404.07992'><img src='https://img.shields.io/badge/arXiv-GoMVS-yellow' alt='arXiv'></a>
+<a href='https://arxiv.org/abs/2404.07992'><img src='https://img.shields.io/badge/arXiv-GoMVS-red' alt='arXiv'></a>
+<a href='https://wuuu3511.github.io/gomvs'><img src='https://img.shields.io/badge/Project_Page-GoMVS-yellow' alt='Project Page'></a>
 </div>
 
 
