@@ -116,7 +116,7 @@ BlendedMVS_normal
  ├── 59f363a8b45be22330016cad
  └── ...
 ```
-The structure of the [TNT](https://pan.baidu.com/s/17i2wOzl0s0uwF2SMXL3tnQ?pwd=f67q) normal data is as follows.
+The structure of the [TNT](https://pan.baidu.com/s/1Vep8lANnx3UqBNy4ZMXatQ?pwd=et97) normal data is as follows.
 ```
 TnT_normal
  ├── Auditorium         
